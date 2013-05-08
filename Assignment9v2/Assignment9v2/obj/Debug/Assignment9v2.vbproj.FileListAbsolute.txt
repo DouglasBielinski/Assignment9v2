@@ -1,0 +1,16 @@
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\bin\Debug\Assignment9v2.exe.config
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\bin\Debug\Assignment9v2.exe
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\bin\Debug\Assignment9v2.pdb
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\bin\Debug\Assignment9v2.xml
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.Form1.resources
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.Resources.resources
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.vbproj.GenerateResource.Cache
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.exe
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.xml
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.pdb
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.resource-US.resources
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.Resource1.resources
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.resource-IN.resources
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.resource-SA.resources
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.resource-NO.resources
+c:\users\doug\documents\visual studio 2012\Projects\Assignment9v2\Assignment9v2\obj\Debug\Assignment9v2.resource-DE.resources

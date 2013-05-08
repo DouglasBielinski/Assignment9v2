@@ -1,0 +1,226 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Assignment9v2
+</name>
+</assembly>
+<members>
+<member name="P:Assignment9v2.My.Resources.resource_DE.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_DE.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_DE.myCountry">
+	<summary>
+  Looks up a localized string similar to de-DE.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_DE.myExit">
+	<summary>
+  Looks up a localized string similar to Verlassen.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_DE.myGreeting">
+	<summary>
+  Looks up a localized string similar to guten Tag.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_DE.myImagePath">
+	<summary>
+  Looks up a localized string similar to germanFlag.gif.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_DE.myMonu">
+	<summary>
+  Looks up a localized string similar to germanMonu.jpg.
+</summary>
+</member><member name="T:Assignment9v2.My.Resources.resource_DE">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_NO.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_NO.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_NO.myCountry">
+	<summary>
+  Looks up a localized string similar to no-NO.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_NO.myExit">
+	<summary>
+  Looks up a localized string similar to Utgang.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_NO.myGreeting">
+	<summary>
+  Looks up a localized string similar to god dag.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_NO.myImagePath">
+	<summary>
+  Looks up a localized string similar to norwayFlag.gif.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_NO.myMonu">
+	<summary>
+  Looks up a localized string similar to norwayMonu.jpg.
+</summary>
+</member><member name="T:Assignment9v2.My.Resources.resource_NO">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_SA.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_SA.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_SA.myCountry">
+	<summary>
+  Looks up a localized string similar to ar_SA.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_SA.myExit">
+	<summary>
+  Looks up a localized string similar to خروج.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_SA.myGreeting">
+	<summary>
+  Looks up a localized string similar to يوم جيد.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_SA.myImagePath">
+	<summary>
+  Looks up a localized string similar to saudiFlag.gif.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_SA.myMonu">
+	<summary>
+  Looks up a localized string similar to saudiMonu.jpg.
+</summary>
+</member><member name="T:Assignment9v2.My.Resources.resource_SA">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_IN.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_IN.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_IN.myCountry">
+	<summary>
+  Looks up a localized string similar to hi-IN.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_IN.myExit">
+	<summary>
+  Looks up a localized string similar to निकास.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_IN.myGreeting">
+	<summary>
+  Looks up a localized string similar to शुभ दिन.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_IN.myImagePath">
+	<summary>
+  Looks up a localized string similar to indiaFlag.gif.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_IN.myMonu">
+	<summary>
+  Looks up a localized string similar to indiaMonu.jpg.
+</summary>
+</member><member name="T:Assignment9v2.My.Resources.resource_IN">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resource1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resource1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resource1.imagePath">
+	<summary>
+  Looks up a localized string similar to null.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resource1.myCountry">
+	<summary>
+  Looks up a localized string similar to Country One.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resource1.myExit">
+	<summary>
+  Looks up a localized string similar to 01010100101.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resource1.myGreeting">
+	<summary>
+  Looks up a localized string similar to 1010101010.
+</summary>
+</member><member name="T:Assignment9v2.My.Resources.Resource1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_US.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_US.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_US.myCountry">
+	<summary>
+  Looks up a localized string similar to en-US.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_US.myExit">
+	<summary>
+  Looks up a localized string similar to Exit.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_US.myGreeting">
+	<summary>
+  Looks up a localized string similar to Hello.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_US.myImagePath">
+	<summary>
+  Looks up a localized string similar to usaFlag.gif.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.resource_US.myMonu">
+	<summary>
+  Looks up a localized string similar to usaMonu.jpg.
+</summary>
+</member><member name="T:Assignment9v2.My.Resources.resource_US">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resources.default_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment9v2.My.Resources.Resources.usaFlag">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Assignment9v2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
